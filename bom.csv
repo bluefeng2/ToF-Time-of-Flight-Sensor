@@ -1,22 +1,21 @@
-Item Name,Link,Cost (CAD),Amount,Total (CAD)
-Ceramic Capacitor 0.1 μF 50V X7R 0603,https://www.digikey.ca/en/products/detail/kemet/C0603C104K5RACTU/1465594,0.011,10,0.11
-Ceramic Capacitor 4.7 μF 10V X5R 0603,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702,0.00600,10,0.06
-LED Orange Clear Chip SMD,https://www.digikey.ca/en/products/detail/liteon/LTST-C190KFKT/386813,0.11,5,0.55
-LED Red Clear Chip SMD,https://www.digikey.ca/en/products/detail/liteon/LTST-S270KRKT/160-1479-1-ND,0.12,5,0.6
-LED Green Clear Chip SMD,https://www.digikey.ca/en/products/detail/liteon/LTST-C190KGKT/386815,0.12,6,0.6
-Connector Header R/A 3‑Pos 2.54 mm,https://www.digikey.ca/en/products/detail/0705530002/WM4901-ND,0.93,3,2.79
-Resistor SMD 150 Ω 0.1% 1/10W 0603,https://www.digikey.ca/en/products/detail/ericsson/ERA-3AEB151V/P150DBCT-ND,0.061,10,0.61
-Resistor SMD 4.7 kΩ 1% 1/10W 0603,https://www.digikey.ca/en/products/detail/erj-3ekf4701v/P4.70KHCT-ND,0.034,10,0.34
-Trimmer 100 kΩ J‑Lead Top,https://www.digikey.ca/en/products/detail/TC33X-2-104E/TC33X-104ECT-ND,0.25,7,1.75
-MCU STM32F030F4P6 32‑bit 16KB,https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F030F4P6/497-14044-5-ND,1.52,3,4.56
-Optical Sensor VL53L1CXV0FY/1,https://www.digikey.ca/en/products/detail/stmicroelectronics/VL53L1CXV0FY-1/8258055,5.77,3,17.31
-Linear Regulator MCP1703AT‑3302E,https://www.digikey.ca/en/products/detail/microchip-technology/MCP1703AT-3302E/MBCT-ND,0.75,3,2.25
-Ceramic Capacitor 18 pF 250V C0G 0603,https://www.digikey.ca/en/products/detail/qscp251q180j1gv001t/712-QSCP251Q180J1GV001TCT-ND,0.157,10,1.57
-Crystal 8.000 MHz HC‑49/U,https://www.digikey.ca/en/products/detail/8000000abjb/300-6017-ND,0.49,3,1.47
-Ceramic Capacitor 1 μF 10V X7R 0603,https://www.digikey.ca/en/products/detail/cl10b105kp8nnnc/1276-1946-1-ND,0.005,10,0.05
-Switch Tactile SPST‑NO,https://www.digikey.ca/en/products/detail/b3u-1100p/SW1021CT-ND,0.6,3,1.8
-Digikey Shipping,Digikey,20,1,20
-Custom PCB,JLCPCB,7.65,1,7.65
-STLink programmer, https://www.aliexpress.com/item/1005003575620794.html, 5.48, 1, 5.48
-Total CAD,69.55 CAD,,, 
-Total USD,50.71 USD,,,
+Item Name,Link,Cost (CAD),Amount,Total (USD)
+Ceramic Capacitor 0.1 μF 50V X7R 0603,https://www.lcsc.com/product-detail/C14663.html?spm=wm.fly.bg.0.xh___wm.fly.tp.3.ml&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JYVV1UQFNZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D,0.3,1,0.3
+Ceramic Capacitor 4.7 μF 10V X5R 0603,https://www.lcsc.com/product-detail/C1705.html?s_z=n_q_Ceramic%2520Capacitor%25204.7%25E2%2580%25AF%25CE%25BCF%252010V%2520X5R%25200603&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbVlZSRVhcXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQFNWV11TQU8GEwkK,0.33,1,0.33
+LED Orange Clear Chip SMD,https://www.lcsc.com/product-detail/C5355434.html?s_z=n_q_0603%2520orange%2520led%25203v&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbVlVSR1ZWVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktSRlNADxALGw%3D%3D,0.61,1,0.61
+LED Red Clear Chip SMD,https://www.lcsc.com/product-detail/C7280956.html?s_z=n_q_0603%2520red%2520led%25203.3v&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbVlZXQVZYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,0.52,1,0.52
+LED Green Clear Chip SMD,https://www.lcsc.com/product-detail/C5123548.html?s_z=n_q_0603%2520green%2520led%25203v&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbVlVRRFlaUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktSRlNADxALGw%3D%3D,0.55,1,0.55
+Connector Header R/A 3‑Pos 2.54 mm,https://www.lcsc.com/product-detail/C19190476.html?s_z=n_q_t_3%2520pin%2520&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbV1FSR1JfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,0.99,1,0.99
+Resistor SMD 150 Ω 0.1% 1/10W 0603,https://www.lcsc.com/product-detail/C114608.html?s_z=n_q_t_50%25E2%2580%25AF%25CE%25A9%25200603&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbV1RRRFJbUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlhZX1ZIHxUDCw%3D%3D,0.15,1,0.15
+Resistor SMD 4.7 kΩ 1% 1/10W 0603,https://www.lcsc.com/product-detail/C2907168.html?s_z=n_q_t_4.7%25E2%2580%25AFk%25CE%25A9%25200603&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JbV1RWRVBfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slT1heU1RIHxUDCw%3D%3D,0.15,1,0.15
+Trimmer 100 kΩ J‑Lead Top,https://www.lcsc.com/product-detail/C719186.html?s_z=n_q_TC33X-2-104E&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaXl1VRFBYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,0.68,1,0.68
+MCU STM32F030F4P6 32‑bit 16KB,https://www.lcsc.com/product-detail/C89040.html?s_z=n_q_STM32F030F4P6&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaXl1eRFBaUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQFJcUFVQQ08GEwkK,0.7935,3,2.38
+Optical Sensor VL53L1CXV0FY/1,https://www.lcsc.com/product-detail/C190004.html?s_z=n_q_VL53L1CXV0FY%252F1&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaXlNfTlhYVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlVWV1VTWQkaCgg%3D,4.45,3,13.34
+MSKSEMI AMS1117-3.3V,https://www.lcsc.com/product-detail/C5120796.html?s_z=n_q_p_Linear%2520Voltage%2520Regulator%2520IC%25203.3v%2520SOT-89-3&spm=wm.ssy.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JYU1BXQVJdVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRFZWSQwSGg0%3D,0.4,1,0.4
+Ceramic Capacitor 18 pF 250V C0G 0603,https://www.lcsc.com/product-detail/C1647.html?s_z=n_q_Ceramic%2520Capacitor%252018%25E2%2580%25AFpF%25200603&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaVVJUQ1hfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFlZUVVTWQkaCgg%3D,0.7,1,2.11
+Crystal 8.000 MHz HC‑49/S,https://www.lcsc.com/product-detail/C390747.html?s_z=n_q_Crystal%2520HC%25E2%2580%259149%252Fs&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JYVFZXQ1JXVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlRbSQwSGg0%3D,0.42,1,0.42
+Ceramic Capacitor 1 μF 10V X7R 0603,https://www.lcsc.com/product-detail/C95843.html?s_z=n_q_Ceramic%2520Capacitor%25201%25E2%2580%25AF%25CE%25BCF%252010V%2520X7R%25200603&spm=wm.fly.bg.0.xh&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaXlFTRVNeVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktQQlBADxALGw%3D%3D,0.33,10,0.33
+Switch Tactile SPST‑NO,https://www.lcsc.com/product-detail/C49234124.html?s_z=n_q_t_Switch%2520Tactile%2520SPST%25E2%2580%2591NO&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EgUPXlMCEVkPV11QFgBcBAEFQ1dXAVBVRVMLBAVUR1IxVlNRT1JaVVdRQVJaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D,0.97,1,0.97
+LCSC Shipping,LCSC,13.05,1,13.05
+Custom PCB,JLCPCB,7.22,1,7.22
+STLink programmer,https://www.aliexpress.com/item/1005003575620794.html,4.48,1,4.48
+Total USD,48.98 USD,,,
